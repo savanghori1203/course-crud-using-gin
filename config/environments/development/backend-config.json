@@ -1,0 +1,5 @@
+{
+    "databaseUrl": "postgresql://root@localhost:26257/go_learning?sslmode=disable&pool_max_conns=10",
+    "databaseName": "go_learning"
+  }
+  
